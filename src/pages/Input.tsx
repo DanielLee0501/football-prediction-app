@@ -1,4 +1,5 @@
 import { MatchInputTable } from '../components/MatchInputTable';
+
 const InputPage = () => {
   return (
     <div className="p-6">
@@ -7,4 +8,5 @@ const InputPage = () => {
     </div>
   );
 };
+
 export default InputPage;
